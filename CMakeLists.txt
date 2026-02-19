@@ -63,7 +63,7 @@ set (PROJECT_DEFINES
 
 set (PROJECT_INCLUDES
 	# LIST INCLUDE DIRECTORIES HERE
-
+	Sources/include/001_hello_world/
     )
 
 ############ MODIFY ACCORDING TO REQUIREMENTS) ########################
